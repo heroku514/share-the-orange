@@ -1,0 +1,5 @@
+Share the Orange privacy
+
+Share the Orange stores the current slices on this phone. The slices are which of the six went to the kid and which went to the grandparent.
+
+The app does not collect personal data. It does not use an account, ads, a camera, or a network connection. Nothing is sent off the phone.
